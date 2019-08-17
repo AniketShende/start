@@ -1,0 +1,8 @@
+html,body,div,h1,h2,h3,img,ul,li,form,label,table,tr,td,th{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
